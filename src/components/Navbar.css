@@ -1,0 +1,13 @@
+.navbar-container {
+    width: 100%;
+    height: 60px;
+    background-color: #7F00FF;
+}
+
+.navbar-container h1 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #fff;
+    padding-top: 15px;
+}
